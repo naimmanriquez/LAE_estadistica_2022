@@ -10,7 +10,7 @@ Repaso de conceptos: espacio muestral, funciones de probabilidad, teoria de conj
 Aplicar conceptos básicos de estadística, utilizando un conjunto de datos, con el fin de conocer el comportamiento de los mismos.
 ### Ejercicio 3: Fecha de entrega 31 de agosto
 Investigación y aplicación de tipos de variables en un conjunto de datos y tipos de distribuciones de probabilidades.
-### Ejercicio 4:
+### Ejercicio 4: Fecha de entrega 2 de septiembre
 Investigar y aplicar los conceptos de prueba de hipótesis e intervalos de confianza en un contexto práctico.
-### Ejercicio 5:
+### Ejercicio 5: Fecha de entrega 5 de septiembre
 Aplicar e interpretar los conceptos de series de tiempo y sus componentes.
