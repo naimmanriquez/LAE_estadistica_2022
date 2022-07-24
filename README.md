@@ -17,7 +17,7 @@ Aplicar e interpretar los conceptos de series de tiempo y sus componentes.
 ### Actividad 2 Opcion 1: Análisis del contenido de nicotina en los cigarrillos
 Analizar datos mediante una prueba de hipótesis.
 ### Evidencia 1: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares. ENDUTIH, 2021. INEGI.
-
+## Modulo 2: Series de tiempo y regresión lineal
 
 
 
