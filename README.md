@@ -8,6 +8,8 @@ Para instalarlo, es necesario entrar a [The Comprehensive R Archive Network](htt
 * Basta con descargar el archivo .pkg [de este enlace](https://cran.r-project.org/bin/macosx/base/R-4.2.1.pkg), descomprimir el archivo, abrir el archivo y seguir las instrucciones.
 ### Windows
 * Basta con descargar el archivo .exe [de este enlace](https://cran.r-project.org/bin/windows/base/R-4.2.1-win.exe), abrir el archivo y seguir las instrucciones.
+### Trabajaremos también con la interfaz Rstudio
+Para instalar RStudio (plataforma que usaremos para el uso de R), es necesario acudir a [esta página](https://www.rstudio.com/products/rstudio/download/), y seleccionar nuestro sistema operativo en el menú Installers for Supported Platforms. En el caso de Windows, [este es el archivo](https://download1.rstudio.org/desktop/windows/RStudio-2022.07.1-554.exe), y en el caso de MAC OSX el archivo es [este](https://download1.rstudio.org/desktop/macos/RStudio-2022.07.1-554.dmg).
 ## Modulo 1: Estadistica - repositorio de archivos
 ### Ejercicio 1: Fecha de entrega 15 de agosto de 2022
 Repaso de conceptos: media, mediana, varianza, desviación estandar y tabla de frecuencias. Los datos son de futbolistas de Tigres UANL. En la carpeta de ejercicio 1 se encuentra el pdf con instrucciones y los datos a utilizar.  
