@@ -1,6 +1,8 @@
 # Universidad Tecmilenio
 ## _Material de apoyo para el curso de estadística_
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 # Estadística y pronósticos para la toma de decisiones: agosto-diciembre 2022
 En este repositorio podrán encontrar todo el material que utilizaremos en el curso. Se irá actualizando constantemente y podrán descargarlo si así lo desean o clonarlo por medio de GitHub.
 ## Sobre su profesor
