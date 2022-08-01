@@ -1,5 +1,12 @@
 # Estadística y pronósticos para la toma de decisiones: agosto-diciembre 2022
 En este repositorio podrán encontrar todo el material que utilizaremos en el curso. Se irá actualizando constantemente y podrán descargarlo si así lo desean o clonarlo por medio de GitHub.
+## Sobre su profesor
+Mi nombre es Naím Manríquez, doctor en Economía Regional y Urbana. Soy miembro del Sistema Nacional de Investigadores del CONACYT - Consejo Nacional de Ciencia y Tecnología. Tengo una especialización en analisis de datos y estadística por el Laboratorio Nacional de Políticas Públicas del CIDE - Centro de Investigación y Docencia Económicas.
+
+Llevo 5 años usando R de manera profesional en una diversidad de proyectos de corte económico, ambiental, análisis de grandes cantidades de datos, seguridad, justicia, y actualmente en temas de vivienda y acceso justo al hábitat. 
+
+Como docente en R y temas de estadística, he trabajado con grupos de licenciatura, maestría y doctorado. En el caso de maestría y doctorado, todos ellos inscritos en el Padron Nacional de Posgrados de Calidad, PNPC-CONACYT. Actualmente, fui reconocido como profesor-investigador honorífico por la Coord. Gral. para el Fomento a la Investigación Científica e Innovación del Gobierno de Sinaloa
+
 ## Sobre el curso
 Para este curso vamos a trabajar, desde el principio, con código en R. Es necesario tener la última versión de este lenguaje, al momento de escribir este repositorio la versión más actual es la 4.2.1.
 
