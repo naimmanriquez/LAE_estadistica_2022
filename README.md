@@ -27,6 +27,10 @@ Otras páginas interesantes
 * [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
 * [TidyTuesday Datasets](https://github.com/rfordatascience/tidytuesday)
 
+## Algunos libros de apoyo para estadística con R
+* [Discovering Statistics Using R](https://aedmoodle.ufpa.br/pluginfile.php/401852/mod_resource/content/5/Material_PDF/1.Discovering%20Statistics%20Using%20R.pdf)
+* [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+
 
 ## Modulo 1: Estadistica - repositorio de archivos
 ### Ejercicio 1: Fecha de entrega 15 de agosto de 2022
