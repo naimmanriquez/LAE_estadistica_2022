@@ -5,7 +5,12 @@ Mi nombre es Naím Manríquez, doctor en Economía Regional y Urbana. Soy miembr
 
 Llevo 5 años usando R de manera profesional en una diversidad de proyectos de corte económico, ambiental, análisis de grandes cantidades de datos, seguridad, justicia, y actualmente en temas de vivienda y acceso justo al hábitat. 
 
-Como docente en R y temas de estadística, he trabajado con grupos de licenciatura, maestría y doctorado. En el caso de maestría y doctorado, todos ellos inscritos en el Padron Nacional de Posgrados de Calidad, PNPC-CONACYT. Actualmente, fui reconocido como profesor-investigador honorífico por la Coord. Gral. para el Fomento a la Investigación Científica e Innovación del Gobierno de Sinaloa
+Como docente en R y temas de estadística, he trabajado con grupos de licenciatura, maestría y doctorado. En el caso de maestría y doctorado, todos ellos inscritos en el Padron Nacional de Posgrados de Calidad, PNPC-CONACYT. Actualmente, fui reconocido como profesor-investigador honorífico por la Coord. Gral. para el Fomento a la Investigación Científica e Innovación del Gobierno de Sinaloa. 
+
+Algunos de mis artículos de investigación los pueden encontrar en los siguientes enlaces:
+* [Google Scholar](https://scholar.google.com/citations?user=g1pTG0UAAAAJ&hl=es)
+* [Researchgate](https://www.researchgate.net/profile/Naim-Manriquez-Garcia)
+
 
 ## Sobre el curso
 Para este curso vamos a trabajar, desde el principio, con código en R. Es necesario tener la última versión de este lenguaje, al momento de escribir este repositorio la versión más actual es la 4.2.1.
@@ -32,7 +37,9 @@ Otras páginas interesantes
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
-* [TidyTuesday Datasets](https://github.com/rfordatascience/tidytuesday)
+* [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
+* [Servicio de Información Agroalimentaria y Pesquera](https://nube.siap.gob.mx/cierreagricola/)
+
 
 ## Algunos libros de apoyo para estadística con R
 * [Discovering Statistics Using R](https://aedmoodle.ufpa.br/pluginfile.php/401852/mod_resource/content/5/Material_PDF/1.Discovering%20Statistics%20Using%20R.pdf)
