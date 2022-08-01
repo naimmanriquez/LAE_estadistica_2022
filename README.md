@@ -37,7 +37,6 @@ Otras páginas interesantes
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
-* [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
 * [Servicio de Información Agroalimentaria y Pesquera](https://nube.siap.gob.mx/cierreagricola/)
 
 
