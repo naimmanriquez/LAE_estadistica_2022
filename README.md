@@ -10,6 +10,24 @@ Para instalarlo, es necesario entrar a [The Comprehensive R Archive Network](htt
 * Basta con descargar el archivo .exe [de este enlace](https://cran.r-project.org/bin/windows/base/R-4.2.1-win.exe), abrir el archivo y seguir las instrucciones.
 ### Trabajaremos también con la interfaz Rstudio
 Para instalar RStudio (plataforma que usaremos para el uso de R), es necesario acudir a [esta página](https://www.rstudio.com/products/rstudio/download/), y seleccionar nuestro sistema operativo en el menú Installers for Supported Platforms. En el caso de Windows, [este es el archivo](https://download1.rstudio.org/desktop/windows/RStudio-2022.07.1-554.exe), y en el caso de MAC OSX el archivo es [este](https://download1.rstudio.org/desktop/macos/RStudio-2022.07.1-554.dmg).
+## Repositorios de bases de datos
+Algunos proyectos de datos del INEGI y repositorios recomendados para buscar buenas bases de datos.
+
+Instituto Nacional de Estadística y Geografía - INEGI
+* [Banco de Información Económica](https://www.inegi.org.mx/app/indicadores/?tm=0)
+* [Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares](https://www.inegi.org.mx/programas/dutih/2021/)
+* [Encuesta Nacional de Ocupación y Empleo (ENOE)](https://www.inegi.org.mx/programas/enoe/15ymas/)
+* [Censo de Población y Vivienda](https://www.inegi.org.mx/programas/ccpv/2020/)
+* [Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH)](https://www.inegi.org.mx/programas/enigh/nc/2020/)
+
+Otras páginas interesantes
+* [Harvard Dataverse](https://dataverse.harvard.edu/)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Datos abiertos del Gobierno Federal](https://datos.gob.mx/)
+* [TidyTuesday Datasets](https://github.com/rfordatascience/tidytuesday)
+
+
 ## Modulo 1: Estadistica - repositorio de archivos
 ### Ejercicio 1: Fecha de entrega 15 de agosto de 2022
 Repaso de conceptos: media, mediana, varianza, desviación estandar y tabla de frecuencias. Los datos son de futbolistas de Tigres UANL. En la carpeta de ejercicio 1 se encuentra el pdf con instrucciones y los datos a utilizar.  
