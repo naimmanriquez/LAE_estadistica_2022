@@ -4,8 +4,14 @@
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+La importancia de la estadística como lo menciona Stephen Few en una de sus:
+> “Los números tienen una historia importante que contar ...
+> dependen de ti, para darles una voz. “
+
 # Estadística y pronósticos para la toma de decisiones: agosto-diciembre 2022
 En este repositorio podrán encontrar todo el material que utilizaremos en el curso. Se irá actualizando constantemente y podrán descargarlo si así lo desean o clonarlo por medio de GitHub.
+
 ## Sobre su profesor
 Mi nombre es Naím Manríquez, doctor en Economía Regional y Urbana. Soy miembro del Sistema Nacional de Investigadores del CONACYT - Consejo Nacional de Ciencia y Tecnología. Tengo una especialización en analisis de datos y estadística por el Laboratorio Nacional de Políticas Públicas del CIDE - Centro de Investigación y Docencia Económicas.
 
