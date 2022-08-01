@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-La importancia de la estadística como lo menciona Stephen Few en una de sus:
+La importancia de la estadística como lo menciona Stephen Few en una de sus publicaciones:
 > “Los números tienen una historia importante que contar ...
 > dependen de ti, para darles una voz. “
 
