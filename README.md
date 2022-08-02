@@ -82,7 +82,11 @@ Aplicar e interpretar los conceptos de series de tiempo y sus componentes.
 Analizar datos mediante una prueba de hipótesis.
 ### Evidencia 1: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares. ENDUTIH, 2021. INEGI.
 #### Fecha de entrega: 11 de septiembre
-## Modulo 2: Series de tiempo y regresión lineal
 
+## Pase de lista y drives
+
+| Asunto | Acceso |
+| ------ | ------ |
+| Asistencia | [Liga de asistencia](https://docs.google.com/forms/d/e/1FAIpQLScFbSH9R9B-5J2UA1h-oxTPBtE7h2DN88j3WtzrT6oYv2Kqmg/viewform) |
 
 
