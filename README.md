@@ -83,10 +83,11 @@ Analizar datos mediante una prueba de hipótesis.
 ### Evidencia 1: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares. ENDUTIH, 2021. INEGI.
 #### Fecha de entrega: 11 de septiembre
 
-## Pase de lista y drives
+## Liga de asistencia y drive con libros de R
 
 | Asunto | Acceso |
 | ------ | ------ |
 | Asistencia | [Liga de asistencia](https://docs.google.com/forms/d/e/1FAIpQLScFbSH9R9B-5J2UA1h-oxTPBtE7h2DN88j3WtzrT6oYv2Kqmg/viewform) |
+| Google Drive | [Libros de R](https://drive.google.com/drive/folders/1W3S0r_g8PascdS8LLo4vcfcb3rY4fuHG?fbclid=IwAR1iIpnwcGmHZ41g_gZRMrp-xGlPHXFuPwTX49wOBvn2cr8Kg-ZQPp10yAg) |
 
 
