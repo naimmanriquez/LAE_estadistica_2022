@@ -35,7 +35,7 @@ Para instalarlo, es necesario entrar a [The Comprehensive R Archive Network](htt
 ### Trabajaremos también con la interfaz Rstudio
 Para instalar RStudio (plataforma que usaremos para el uso de R), es necesario acudir a [esta página](https://www.rstudio.com/products/rstudio/download/), y seleccionar nuestro sistema operativo en el menú Installers for Supported Platforms. En el caso de Windows, [este es el archivo](https://download1.rstudio.org/desktop/windows/RStudio-2022.07.1-554.exe), y en el caso de MAC OSX el archivo es [este](https://download1.rstudio.org/desktop/macos/RStudio-2022.07.1-554.dmg).
 ## Repositorios de bases de datos
-Algunos proyectos de datos del INEGI y repositorios recomendados para buscar buenas bases de datos.
+Algunos proyectos del INEGI y repositorios recomendados para buscar buenas bases de datos.
 
 Instituto Nacional de Estadística y Geografía - INEGI
 * [Banco de Información Económica](https://www.inegi.org.mx/app/indicadores/?tm=0)
