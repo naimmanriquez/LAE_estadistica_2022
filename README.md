@@ -57,7 +57,7 @@ Otras páginas interesantes
 * [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 
 
-## Modulo 1: Estadistica - repositorio de archivos
+## Módulo 1: Estadistica - repositorio de archivos
 ### Ejercicio 1: Fecha de entrega 15 de agosto de 2022
 Repaso de conceptos: media, mediana, varianza, desviación estandar y tabla de frecuencias. Los datos son de futbolistas de Tigres UANL. En la carpeta de ejercicio 1 se encuentra el pdf con instrucciones y los datos a utilizar.  
 ### Control de lectura 1: Fecha de entrega 15 de agosto de 2022
@@ -105,6 +105,10 @@ H0: µ = 7 contra la alternativa de que Ha : µ ≠ 7 con un nivel de significan
 Establece e interpreta el intervalo de confianza al 95%.
 
 Realiza un resumen de los hallazgos.
+
+## Módulo 2: Series de tiempo y regresión lineal simple
+### Ejercicio 6:
+Obtener los coeficientes de correlación de dos variables cuantitativas, así como realizar el análisis de autocorrelación en datos de una serie de tiempo.
 
 
 ## Liga de asistencia y drive con libros de R
