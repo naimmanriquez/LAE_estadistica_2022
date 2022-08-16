@@ -109,7 +109,8 @@ Realiza un resumen de los hallazgos.
 ## Módulo 2: Series de tiempo y regresión lineal simple
 ### Ejercicio 6:
 Obtener los coeficientes de correlación de dos variables cuantitativas, así como realizar el análisis de autocorrelación en datos de una serie de tiempo.
-
+### Ejercicio 7:
+Determinar los pronósticos a través de promedios móviles de k periodos y de la técnica de suavizamiento exponencial en una serie de datos.
 
 ## Liga de asistencia y drive con libros de R
 
