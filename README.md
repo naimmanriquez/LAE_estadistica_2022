@@ -111,6 +111,12 @@ Realiza un resumen de los hallazgos.
 Obtener los coeficientes de correlación de dos variables cuantitativas, así como realizar el análisis de autocorrelación en datos de una serie de tiempo.
 ### Ejercicio 7:
 Determinar los pronósticos a través de promedios móviles de k periodos y de la técnica de suavizamiento exponencial en una serie de datos.
+### Ejercicio 8:
+Obtener las medidas de precisión para la comparación de diferentes modelos de pronóstico.
+### Ejercicio 9:
+Obtener los estimadores de mínimos cuadrados e interpretar la línea de regresión.
+### Ejercicio 10:
+Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
 
 ## Liga de asistencia y drive con libros de R
 
