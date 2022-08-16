@@ -111,6 +111,8 @@ Realiza un resumen de los hallazgos.
 Obtener los coeficientes de correlación de dos variables cuantitativas, así como realizar el análisis de autocorrelación en datos de una serie de tiempo.
 ### Ejercicio 7:
 Determinar los pronósticos a través de promedios móviles de k periodos y de la técnica de suavizamiento exponencial en una serie de datos.
+### Actividad 3 opción 2: 
+Correlación, autocorrelación, pronósticos basados en promedios móviles y suavización exponencial
 ### Ejercicio 8:
 Obtener las medidas de precisión para la comparación de diferentes modelos de pronóstico.
 ### Ejercicio 9:
