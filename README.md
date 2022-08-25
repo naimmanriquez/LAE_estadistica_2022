@@ -107,8 +107,11 @@ Establece e interpreta el intervalo de confianza al 95%.
 Realiza un resumen de los hallazgos.
 
 ## Módulo 2: Series de tiempo y regresión lineal simple
-### Ejercicio 6:
+### Ejercicio 6: Fecha de entrega: 15 de septiembre
 Obtener los coeficientes de correlación de dos variables cuantitativas, así como realizar el análisis de autocorrelación en datos de una serie de tiempo.
+### Control de lectura 3: Fecha de entrega: 15 de septiembre
+Lectura a realizar: Capitulo 8 del libro Estadística y Machine Learning con R disponible en el siguiente enlace: 
+* [Capitulo 8](https://bookdown.org/content/2274/series-temporales.html)
 ### Ejercicio 7:
 Determinar los pronósticos a través de promedios móviles de k periodos y de la técnica de suavizamiento exponencial en una serie de datos.
 ### Actividad 3 opción 2: 
