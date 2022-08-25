@@ -112,15 +112,18 @@ Obtener los coeficientes de correlación de dos variables cuantitativas, así co
 ### Control de lectura 3: Fecha de entrega: 15 de septiembre
 Lectura a realizar: Capitulo 8 del libro Estadística y Machine Learning con R disponible en el siguiente enlace: 
 * [Capitulo 8](https://bookdown.org/content/2274/series-temporales.html)
-### Ejercicio 7:
+### Ejercicio 7: Fecha de entrega: 22 de septiembre
 Determinar los pronósticos a través de promedios móviles de k periodos y de la técnica de suavizamiento exponencial en una serie de datos.
-### Actividad 3 opción 2: 
+### Actividad 3 opción 2: Fecha de entrega: 26 de septiembre
 Correlación, autocorrelación, pronósticos basados en promedios móviles y suavización exponencial
-### Ejercicio 8:
+### Ejercicio 8: Fecha de entrega: 28 de septiembre
 Obtener las medidas de precisión para la comparación de diferentes modelos de pronóstico.
-### Ejercicio 9:
+### Control de lectura 4: Fecha de entrega: 28 de septiembre
+Lectura a realizar: Capitulo 3 del libro Estadística y Machine Learning con R disponible en el siguiente enlace: 
+* [Capitulo 3](https://bookdown.org/content/2274/modelo-lineal-general.html)
+### Ejercicio 9: Fecha de entrega: 4 de octubre
 Obtener los estimadores de mínimos cuadrados e interpretar la línea de regresión.
-### Ejercicio 10:
+### Ejercicio 10: Fecha de entrega 10 de octubre
 Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
 
 ## Liga de asistencia y drive con libros de R
