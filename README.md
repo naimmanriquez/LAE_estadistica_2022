@@ -127,6 +127,8 @@ Obtener los estimadores de mínimos cuadrados e interpretar la línea de regresi
 Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
 ### Actividad 4:
 #### Fecha de entrega: 10 de octubre
+### Evidencia 2: 
+#### Fecha de entrega: 17 de octubre
 
 ## Liga de asistencia y drive con libros de R
 
