@@ -123,8 +123,10 @@ Lectura a realizar: Capitulo 3 del libro Estadística y Machine Learning con R d
 * [Capitulo 3](https://bookdown.org/content/2274/modelo-lineal-general.html)
 ### Ejercicio 9: Fecha de entrega: 4 de octubre
 Obtener los estimadores de mínimos cuadrados e interpretar la línea de regresión.
-### Ejercicio 10: Fecha de entrega: 10 de octubre
+### Ejercicio 10: Fecha de entrega: 6 de octubre
 Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
+### Actividad 4:
+#### Fecha de entrega: 10 de octubre
 
 ## Liga de asistencia y drive con libros de R
 
