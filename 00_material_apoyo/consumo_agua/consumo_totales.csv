@@ -1,0 +1,673 @@
+,zona,fecha,Freq
+1,Av. Del Mar,2018-01,15700
+2,Av. Del Mar,2018-02,14612
+3,Av. Del Mar,2018-03,14347
+4,Av. Del Mar,2018-04,16866
+5,Av. Del Mar,2018-05,19087
+6,Av. Del Mar,2018-06,17505
+7,Av. Del Mar,2018-07,16584
+8,Av. Del Mar,2018-08,20629
+9,Av. Del Mar,2018-09,17005
+10,Av. Del Mar,2018-10,12416
+11,Av. Del Mar,2018-11,11469
+12,Av. Del Mar,2018-12,14436
+13,Av. Del Mar,2019-01,15209
+14,Av. Del Mar,2019-02,15839
+15,Av. Del Mar,2019-03,12242
+16,Av. Del Mar,2019-04,16139
+17,Av. Del Mar,2019-05,18994
+18,Av. Del Mar,2019-06,17054
+19,Av. Del Mar,2019-07,16702
+20,Av. Del Mar,2019-08,20072
+21,Av. Del Mar,2019-09,18449
+22,Av. Del Mar,2019-10,14565
+23,Av. Del Mar,2019-11,14365
+24,Av. Del Mar,2019-12,15855
+25,Av. Del Mar,2020-01,15693
+26,Av. Del Mar,2020-02,16694
+27,Av. Del Mar,2020-03,16200
+28,Av. Del Mar,2020-04,15190
+29,Av. Del Mar,2020-05,8947
+30,Av. Del Mar,2020-06,6877
+31,Av. Del Mar,2020-07,6705
+32,Av. Del Mar,2020-08,13620
+33,Av. Del Mar,2020-09,17336
+34,Av. Del Mar,2020-10,17913
+35,Av. Del Mar,2020-11,16437
+36,Av. Del Mar,2020-12,16765
+37,Av. Del Mar,2021-01,14560
+38,Av. Del Mar,2021-02,16725
+39,Av. Del Mar,2021-03,15782
+40,Av. Del Mar,2021-04,16530
+41,Av. Del Mar,2021-05,19183
+42,Av. Del Mar,2021-06,20578
+43,Av. Del Mar,2021-07,20442
+44,Av. Del Mar,2021-08,20812
+45,Av. Del Mar,2021-09,17875
+46,Av. Del Mar,2021-10,14944
+47,Av. Del Mar,2021-11,17324
+48,Av. Del Mar,2021-12,17747
+49,Av. Internacional,2018-01,11058
+50,Av. Internacional,2018-02,10101
+51,Av. Internacional,2018-03,10064
+52,Av. Internacional,2018-04,13434
+53,Av. Internacional,2018-05,15364
+54,Av. Internacional,2018-06,12605
+55,Av. Internacional,2018-07,10612
+56,Av. Internacional,2018-08,10749
+57,Av. Internacional,2018-09,10540
+58,Av. Internacional,2018-10,9493
+59,Av. Internacional,2018-11,10360
+60,Av. Internacional,2018-12,10200
+61,Av. Internacional,2019-01,9884
+62,Av. Internacional,2019-02,9853
+63,Av. Internacional,2019-03,9579
+64,Av. Internacional,2019-04,9493
+65,Av. Internacional,2019-05,9355
+66,Av. Internacional,2019-06,10509
+67,Av. Internacional,2019-07,10201
+68,Av. Internacional,2019-08,10208
+69,Av. Internacional,2019-09,9788
+70,Av. Internacional,2019-10,9377
+71,Av. Internacional,2019-11,9170
+72,Av. Internacional,2019-12,9416
+73,Av. Internacional,2020-01,8705
+74,Av. Internacional,2020-02,8829
+75,Av. Internacional,2020-03,8832
+76,Av. Internacional,2020-04,8570
+77,Av. Internacional,2020-05,7286
+78,Av. Internacional,2020-06,7213
+79,Av. Internacional,2020-07,8084
+80,Av. Internacional,2020-08,7976
+81,Av. Internacional,2020-09,8867
+82,Av. Internacional,2020-10,8273
+83,Av. Internacional,2020-11,8895
+84,Av. Internacional,2020-12,9255
+85,Av. Internacional,2021-01,9680
+86,Av. Internacional,2021-02,9929
+87,Av. Internacional,2021-03,9448
+88,Av. Internacional,2021-04,9368
+89,Av. Internacional,2021-05,9657
+90,Av. Internacional,2021-06,10605
+91,Av. Internacional,2021-07,10360
+92,Av. Internacional,2021-08,10219
+93,Av. Internacional,2021-09,9727
+94,Av. Internacional,2021-10,8203
+95,Av. Internacional,2021-11,9726
+96,Av. Internacional,2021-12,9203
+97,Av. Internacional Venadillo,2018-01,8689
+98,Av. Internacional Venadillo,2018-02,7824
+99,Av. Internacional Venadillo,2018-03,7621
+100,Av. Internacional Venadillo,2018-04,7963
+101,Av. Internacional Venadillo,2018-05,7608
+102,Av. Internacional Venadillo,2018-06,7528
+103,Av. Internacional Venadillo,2018-07,7718
+104,Av. Internacional Venadillo,2018-08,8412
+105,Av. Internacional Venadillo,2018-09,7454
+106,Av. Internacional Venadillo,2018-10,7428
+107,Av. Internacional Venadillo,2018-11,7172
+108,Av. Internacional Venadillo,2018-12,7934
+109,Av. Internacional Venadillo,2019-01,6140
+110,Av. Internacional Venadillo,2019-02,4943
+111,Av. Internacional Venadillo,2019-03,4723
+112,Av. Internacional Venadillo,2019-04,5778
+113,Av. Internacional Venadillo,2019-05,5324
+114,Av. Internacional Venadillo,2019-06,4633
+115,Av. Internacional Venadillo,2019-07,5041
+116,Av. Internacional Venadillo,2019-08,5323
+117,Av. Internacional Venadillo,2019-09,5340
+118,Av. Internacional Venadillo,2019-10,5107
+119,Av. Internacional Venadillo,2019-11,4787
+120,Av. Internacional Venadillo,2019-12,5433
+121,Av. Internacional Venadillo,2020-01,5144
+122,Av. Internacional Venadillo,2020-02,5167
+123,Av. Internacional Venadillo,2020-03,5784
+124,Av. Internacional Venadillo,2020-04,4541
+125,Av. Internacional Venadillo,2020-05,3697
+126,Av. Internacional Venadillo,2020-06,774
+127,Av. Internacional Venadillo,2020-07,4463
+128,Av. Internacional Venadillo,2020-08,4895
+129,Av. Internacional Venadillo,2020-09,5675
+130,Av. Internacional Venadillo,2020-10,5426
+131,Av. Internacional Venadillo,2020-11,5619
+132,Av. Internacional Venadillo,2020-12,5370
+133,Av. Internacional Venadillo,2021-01,6447
+134,Av. Internacional Venadillo,2021-02,5404
+135,Av. Internacional Venadillo,2021-03,5287
+136,Av. Internacional Venadillo,2021-04,4809
+137,Av. Internacional Venadillo,2021-05,5669
+138,Av. Internacional Venadillo,2021-06,5695
+139,Av. Internacional Venadillo,2021-07,5897
+140,Av. Internacional Venadillo,2021-08,5848
+141,Av. Internacional Venadillo,2021-09,5274
+142,Av. Internacional Venadillo,2021-10,5695
+143,Av. Internacional Venadillo,2021-11,6850
+144,Av. Internacional Venadillo,2021-12,4934
+145,Av. Rafael Buelna,2018-01,992
+146,Av. Rafael Buelna,2018-02,808
+147,Av. Rafael Buelna,2018-03,894
+148,Av. Rafael Buelna,2018-04,795
+149,Av. Rafael Buelna,2018-05,1575
+150,Av. Rafael Buelna,2018-06,1269
+151,Av. Rafael Buelna,2018-07,1426
+152,Av. Rafael Buelna,2018-08,1343
+153,Av. Rafael Buelna,2018-09,1204
+154,Av. Rafael Buelna,2018-10,805
+155,Av. Rafael Buelna,2018-11,914
+156,Av. Rafael Buelna,2018-12,1120
+157,Av. Rafael Buelna,2019-01,1071
+158,Av. Rafael Buelna,2019-02,1338
+159,Av. Rafael Buelna,2019-03,1130
+160,Av. Rafael Buelna,2019-04,1570
+161,Av. Rafael Buelna,2019-05,1694
+162,Av. Rafael Buelna,2019-06,1522
+163,Av. Rafael Buelna,2019-07,1579
+164,Av. Rafael Buelna,2019-08,1663
+165,Av. Rafael Buelna,2019-09,1578
+166,Av. Rafael Buelna,2019-10,1361
+167,Av. Rafael Buelna,2019-11,1400
+168,Av. Rafael Buelna,2019-12,1427
+169,Av. Rafael Buelna,2020-01,1289
+170,Av. Rafael Buelna,2020-02,1684
+171,Av. Rafael Buelna,2020-03,1218
+172,Av. Rafael Buelna,2020-04,1009
+173,Av. Rafael Buelna,2020-05,570
+174,Av. Rafael Buelna,2020-06,549
+175,Av. Rafael Buelna,2020-07,894
+176,Av. Rafael Buelna,2020-08,599
+177,Av. Rafael Buelna,2020-09,1036
+178,Av. Rafael Buelna,2020-10,1101
+179,Av. Rafael Buelna,2020-11,1218
+180,Av. Rafael Buelna,2020-12,1249
+181,Av. Rafael Buelna,2021-01,1138
+182,Av. Rafael Buelna,2021-02,1404
+183,Av. Rafael Buelna,2021-03,1048
+184,Av. Rafael Buelna,2021-04,1195
+185,Av. Rafael Buelna,2021-05,1663
+186,Av. Rafael Buelna,2021-06,1629
+187,Av. Rafael Buelna,2021-07,1617
+188,Av. Rafael Buelna,2021-08,1606
+189,Av. Rafael Buelna,2021-09,1305
+190,Av. Rafael Buelna,2021-10,1345
+191,Av. Rafael Buelna,2021-11,1346
+192,Av. Rafael Buelna,2021-12,1380
+193,Av. Reforma,2018-01,635
+194,Av. Reforma,2018-02,695
+195,Av. Reforma,2018-03,757
+196,Av. Reforma,2018-04,757
+197,Av. Reforma,2018-05,698
+198,Av. Reforma,2018-06,694
+199,Av. Reforma,2018-07,781
+200,Av. Reforma,2018-08,820
+201,Av. Reforma,2018-09,747
+202,Av. Reforma,2018-10,738
+203,Av. Reforma,2018-11,772
+204,Av. Reforma,2018-12,733
+205,Av. Reforma,2019-01,1031
+206,Av. Reforma,2019-02,762
+207,Av. Reforma,2019-03,659
+208,Av. Reforma,2019-04,665
+209,Av. Reforma,2019-05,858
+210,Av. Reforma,2019-06,699
+211,Av. Reforma,2019-07,665
+212,Av. Reforma,2019-08,784
+213,Av. Reforma,2019-09,690
+214,Av. Reforma,2019-10,683
+215,Av. Reforma,2019-11,631
+216,Av. Reforma,2019-12,668
+217,Av. Reforma,2020-01,723
+218,Av. Reforma,2020-02,634
+219,Av. Reforma,2020-03,640
+220,Av. Reforma,2020-04,583
+221,Av. Reforma,2020-05,404
+222,Av. Reforma,2020-06,372
+223,Av. Reforma,2020-07,416
+224,Av. Reforma,2020-08,425
+225,Av. Reforma,2020-09,248
+226,Av. Reforma,2020-10,288
+227,Av. Reforma,2020-11,448
+228,Av. Reforma,2020-12,537
+229,Av. Reforma,2021-01,477
+230,Av. Reforma,2021-02,434
+231,Av. Reforma,2021-03,465
+232,Av. Reforma,2021-04,353
+233,Av. Reforma,2021-05,453
+234,Av. Reforma,2021-06,485
+235,Av. Reforma,2021-07,452
+236,Av. Reforma,2021-08,286
+237,Av. Reforma,2021-09,310
+238,Av. Reforma,2021-10,287
+239,Av. Reforma,2021-11,412
+240,Av. Reforma,2021-12,405
+241,Av. Sabalo-Cerritos,2018-01,82252
+242,Av. Sabalo-Cerritos,2018-02,83696
+243,Av. Sabalo-Cerritos,2018-03,81490
+244,Av. Sabalo-Cerritos,2018-04,94643
+245,Av. Sabalo-Cerritos,2018-05,86430
+246,Av. Sabalo-Cerritos,2018-06,88601
+247,Av. Sabalo-Cerritos,2018-07,89466
+248,Av. Sabalo-Cerritos,2018-08,102069
+249,Av. Sabalo-Cerritos,2018-09,90498
+250,Av. Sabalo-Cerritos,2018-10,66521
+251,Av. Sabalo-Cerritos,2018-11,76409
+252,Av. Sabalo-Cerritos,2018-12,78967
+253,Av. Sabalo-Cerritos,2019-01,79875
+254,Av. Sabalo-Cerritos,2019-02,80383
+255,Av. Sabalo-Cerritos,2019-03,79642
+256,Av. Sabalo-Cerritos,2019-04,79376
+257,Av. Sabalo-Cerritos,2019-05,78994
+258,Av. Sabalo-Cerritos,2019-06,66600
+259,Av. Sabalo-Cerritos,2019-07,68237
+260,Av. Sabalo-Cerritos,2019-08,84361
+261,Av. Sabalo-Cerritos,2019-09,89161
+262,Av. Sabalo-Cerritos,2019-10,72991
+263,Av. Sabalo-Cerritos,2019-11,72256
+264,Av. Sabalo-Cerritos,2019-12,72576
+265,Av. Sabalo-Cerritos,2020-01,73992
+266,Av. Sabalo-Cerritos,2020-02,71794
+267,Av. Sabalo-Cerritos,2020-03,72212
+268,Av. Sabalo-Cerritos,2020-04,78253
+269,Av. Sabalo-Cerritos,2020-05,43389
+270,Av. Sabalo-Cerritos,2020-06,41657
+271,Av. Sabalo-Cerritos,2020-07,44113
+272,Av. Sabalo-Cerritos,2020-08,62755
+273,Av. Sabalo-Cerritos,2020-09,69928
+274,Av. Sabalo-Cerritos,2020-10,62987
+275,Av. Sabalo-Cerritos,2020-11,67806
+276,Av. Sabalo-Cerritos,2020-12,71860
+277,Av. Sabalo-Cerritos,2021-01,66855
+278,Av. Sabalo-Cerritos,2021-02,68267
+279,Av. Sabalo-Cerritos,2021-03,67178
+280,Av. Sabalo-Cerritos,2021-04,70221
+281,Av. Sabalo-Cerritos,2021-05,82145
+282,Av. Sabalo-Cerritos,2021-06,88767
+283,Av. Sabalo-Cerritos,2021-07,95801
+284,Av. Sabalo-Cerritos,2021-08,89086
+285,Av. Sabalo-Cerritos,2021-09,79191
+286,Av. Sabalo-Cerritos,2021-10,57131
+287,Av. Sabalo-Cerritos,2021-11,71273
+288,Av. Sabalo-Cerritos,2021-12,68042
+289,Central,2018-01,490983
+290,Central,2018-02,437994
+291,Central,2018-03,466329
+292,Central,2018-04,478772
+293,Central,2018-05,478979
+294,Central,2018-06,497588
+295,Central,2018-07,490442
+296,Central,2018-08,496355
+297,Central,2018-09,491396
+298,Central,2018-10,465027
+299,Central,2018-11,466467
+300,Central,2018-12,471052
+301,Central,2019-01,471705
+302,Central,2019-02,463891
+303,Central,2019-03,438527
+304,Central,2019-04,478353
+305,Central,2019-05,483045
+306,Central,2019-06,473425
+307,Central,2019-07,486450
+308,Central,2019-08,493157
+309,Central,2019-09,496197
+310,Central,2019-10,482767
+311,Central,2019-11,467739
+312,Central,2019-12,489006
+313,Central,2020-01,484600
+314,Central,2020-02,419954
+315,Central,2020-03,443665
+316,Central,2020-04,480448
+317,Central,2020-05,462647
+318,Central,2020-06,409886
+319,Central,2020-07,480452
+320,Central,2020-08,487174
+321,Central,2020-09,492426
+322,Central,2020-10,489864
+323,Central,2020-11,497212
+324,Central,2020-12,511488
+325,Central,2021-01,491603
+326,Central,2021-02,471683
+327,Central,2021-03,469916
+328,Central,2021-04,461057
+329,Central,2021-05,494072
+330,Central,2021-06,521688
+331,Central,2021-07,530958
+332,Central,2021-08,519358
+333,Central,2021-09,500448
+334,Central,2021-10,466498
+335,Central,2021-11,501664
+336,Central,2021-12,481112
+337,Centro,2018-01,186730
+338,Centro,2018-02,170197
+339,Centro,2018-03,196126
+340,Centro,2018-04,186960
+341,Centro,2018-05,195334
+342,Centro,2018-06,200440
+343,Centro,2018-07,194982
+344,Centro,2018-08,196744
+345,Centro,2018-09,199363
+346,Centro,2018-10,183277
+347,Centro,2018-11,182453
+348,Centro,2018-12,188878
+349,Centro,2019-01,166978
+350,Centro,2019-02,167310
+351,Centro,2019-03,171362
+352,Centro,2019-04,191587
+353,Centro,2019-05,190654
+354,Centro,2019-06,182059
+355,Centro,2019-07,189023
+356,Centro,2019-08,196731
+357,Centro,2019-09,189760
+358,Centro,2019-10,182939
+359,Centro,2019-11,184791
+360,Centro,2019-12,185784
+361,Centro,2020-01,175993
+362,Centro,2020-02,181931
+363,Centro,2020-03,182533
+364,Centro,2020-04,181359
+365,Centro,2020-05,149908
+366,Centro,2020-06,85300
+367,Centro,2020-07,161173
+368,Centro,2020-08,177294
+369,Centro,2020-09,180940
+370,Centro,2020-10,178332
+371,Centro,2020-11,183051
+372,Centro,2020-12,187351
+373,Centro,2021-01,176319
+374,Centro,2021-02,171167
+375,Centro,2021-03,170441
+376,Centro,2021-04,174304
+377,Centro,2021-05,189463
+378,Centro,2021-06,196129
+379,Centro,2021-07,195938
+380,Centro,2021-08,194098
+381,Centro,2021-09,185875
+382,Centro,2021-10,170034
+383,Centro,2021-11,184682
+384,Centro,2021-12,189943
+385,Cerritos,2018-01,82883
+386,Cerritos,2018-02,72347
+387,Cerritos,2018-03,84995
+388,Cerritos,2018-04,79576
+389,Cerritos,2018-05,93751
+390,Cerritos,2018-06,93062
+391,Cerritos,2018-07,87998
+392,Cerritos,2018-08,93986
+393,Cerritos,2018-09,90726
+394,Cerritos,2018-10,67242
+395,Cerritos,2018-11,70047
+396,Cerritos,2018-12,86300
+397,Cerritos,2019-01,80494
+398,Cerritos,2019-02,88181
+399,Cerritos,2019-03,84380
+400,Cerritos,2019-04,95281
+401,Cerritos,2019-05,96043
+402,Cerritos,2019-06,89689
+403,Cerritos,2019-07,92063
+404,Cerritos,2019-08,86916
+405,Cerritos,2019-09,83871
+406,Cerritos,2019-10,84832
+407,Cerritos,2019-11,78680
+408,Cerritos,2019-12,91815
+409,Cerritos,2020-01,86917
+410,Cerritos,2020-02,102708
+411,Cerritos,2020-03,93818
+412,Cerritos,2020-04,102738
+413,Cerritos,2020-05,92923
+414,Cerritos,2020-06,94836
+415,Cerritos,2020-07,101644
+416,Cerritos,2020-08,88651
+417,Cerritos,2020-09,86954
+418,Cerritos,2020-10,87733
+419,Cerritos,2020-11,90263
+420,Cerritos,2020-12,102391
+421,Cerritos,2021-01,101835
+422,Cerritos,2021-02,102310
+423,Cerritos,2021-03,103522
+424,Cerritos,2021-04,107623
+425,Cerritos,2021-05,118704
+426,Cerritos,2021-06,127305
+427,Cerritos,2021-07,135428
+428,Cerritos,2021-08,115008
+429,Cerritos,2021-09,122328
+430,Cerritos,2021-10,87283
+431,Cerritos,2021-11,114400
+432,Cerritos,2021-12,104403
+433,Dorada,2018-01,121230
+434,Dorada,2018-02,113514
+435,Dorada,2018-03,120046
+436,Dorada,2018-04,118533
+437,Dorada,2018-05,133958
+438,Dorada,2018-06,128724
+439,Dorada,2018-07,130066
+440,Dorada,2018-08,148908
+441,Dorada,2018-09,139675
+442,Dorada,2018-10,111093
+443,Dorada,2018-11,115756
+444,Dorada,2018-12,122536
+445,Dorada,2019-01,118268
+446,Dorada,2019-02,119511
+447,Dorada,2019-03,111144
+448,Dorada,2019-04,125336
+449,Dorada,2019-05,130591
+450,Dorada,2019-06,122343
+451,Dorada,2019-07,130908
+452,Dorada,2019-08,150673
+453,Dorada,2019-09,133179
+454,Dorada,2019-10,119401
+455,Dorada,2019-11,118978
+456,Dorada,2019-12,123650
+457,Dorada,2020-01,119827
+458,Dorada,2020-02,124741
+459,Dorada,2020-03,119197
+460,Dorada,2020-04,113669
+461,Dorada,2020-05,67974
+462,Dorada,2020-06,66696
+463,Dorada,2020-07,71330
+464,Dorada,2020-08,99556
+465,Dorada,2020-09,113722
+466,Dorada,2020-10,111568
+467,Dorada,2020-11,116160
+468,Dorada,2020-12,122281
+469,Dorada,2021-01,114945
+470,Dorada,2021-02,114824
+471,Dorada,2021-03,113585
+472,Dorada,2021-04,114472
+473,Dorada,2021-05,129686
+474,Dorada,2021-06,138380
+475,Dorada,2021-07,142588
+476,Dorada,2021-08,135367
+477,Dorada,2021-09,120092
+478,Dorada,2021-10,112699
+479,Dorada,2021-11,120081
+480,Dorada,2021-12,126817
+481,Norte,2018-01,262021
+482,Norte,2018-02,233260
+483,Norte,2018-03,256698
+484,Norte,2018-04,267855
+485,Norte,2018-05,261785
+486,Norte,2018-06,274917
+487,Norte,2018-07,260828
+488,Norte,2018-08,275981
+489,Norte,2018-09,269739
+490,Norte,2018-10,250946
+491,Norte,2018-11,264295
+492,Norte,2018-12,273428
+493,Norte,2019-01,286433
+494,Norte,2019-02,287941
+495,Norte,2019-03,275813
+496,Norte,2019-04,295348
+497,Norte,2019-05,312989
+498,Norte,2019-06,297128
+499,Norte,2019-07,298063
+500,Norte,2019-08,298532
+501,Norte,2019-09,296446
+502,Norte,2019-10,300106
+503,Norte,2019-11,282993
+504,Norte,2019-12,309477
+505,Norte,2020-01,273372
+506,Norte,2020-02,246042
+507,Norte,2020-03,287942
+508,Norte,2020-04,272088
+509,Norte,2020-05,293166
+510,Norte,2020-06,288349
+511,Norte,2020-07,306321
+512,Norte,2020-08,305226
+513,Norte,2020-09,306609
+514,Norte,2020-10,293525
+515,Norte,2020-11,301986
+516,Norte,2020-12,319285
+517,Norte,2021-01,310524
+518,Norte,2021-02,290435
+519,Norte,2021-03,300779
+520,Norte,2021-04,297228
+521,Norte,2021-05,321443
+522,Norte,2021-06,345584
+523,Norte,2021-07,341981
+524,Norte,2021-08,334843
+525,Norte,2021-09,331738
+526,Norte,2021-10,296072
+527,Norte,2021-11,337152
+528,Norte,2021-12,304207
+529,Oriente,2018-01,790121
+530,Oriente,2018-02,695047
+531,Oriente,2018-03,745046
+532,Oriente,2018-04,779158
+533,Oriente,2018-05,773403
+534,Oriente,2018-06,817848
+535,Oriente,2018-07,802033
+536,Oriente,2018-08,818822
+537,Oriente,2018-09,829442
+538,Oriente,2018-10,790739
+539,Oriente,2018-11,801335
+540,Oriente,2018-12,772981
+541,Oriente,2019-01,833989
+542,Oriente,2019-02,705903
+543,Oriente,2019-03,755351
+544,Oriente,2019-04,811179
+545,Oriente,2019-05,825101
+546,Oriente,2019-06,804788
+547,Oriente,2019-07,825972
+548,Oriente,2019-08,824869
+549,Oriente,2019-09,847720
+550,Oriente,2019-10,857011
+551,Oriente,2019-11,797367
+552,Oriente,2019-12,839879
+553,Oriente,2020-01,843332
+554,Oriente,2020-02,775091
+555,Oriente,2020-03,727580
+556,Oriente,2020-04,800391
+557,Oriente,2020-05,838051
+558,Oriente,2020-06,745617
+559,Oriente,2020-07,895270
+560,Oriente,2020-08,861854
+561,Oriente,2020-09,887633
+562,Oriente,2020-10,879875
+563,Oriente,2020-11,885356
+564,Oriente,2020-12,879570
+565,Oriente,2021-01,888557
+566,Oriente,2021-02,792909
+567,Oriente,2021-03,784351
+568,Oriente,2021-04,802173
+569,Oriente,2021-05,876398
+570,Oriente,2021-06,903132
+571,Oriente,2021-07,917981
+572,Oriente,2021-08,895374
+573,Oriente,2021-09,866816
+574,Oriente,2021-10,861010
+575,Oriente,2021-11,896981
+576,Oriente,2021-12,857204
+577,Sur,2018-01,415136
+578,Sur,2018-02,390759
+579,Sur,2018-03,423691
+580,Sur,2018-04,438671
+581,Sur,2018-05,451051
+582,Sur,2018-06,434841
+583,Sur,2018-07,451080
+584,Sur,2018-08,458017
+585,Sur,2018-09,454958
+586,Sur,2018-10,424451
+587,Sur,2018-11,431437
+588,Sur,2018-12,424825
+589,Sur,2019-01,396543
+590,Sur,2019-02,380869
+591,Sur,2019-03,410412
+592,Sur,2019-04,421078
+593,Sur,2019-05,409180
+594,Sur,2019-06,422500
+595,Sur,2019-07,437163
+596,Sur,2019-08,439811
+597,Sur,2019-09,439413
+598,Sur,2019-10,423594
+599,Sur,2019-11,412261
+600,Sur,2019-12,425291
+601,Sur,2020-01,399891
+602,Sur,2020-02,383289
+603,Sur,2020-03,316440
+604,Sur,2020-04,398988
+605,Sur,2020-05,420203
+606,Sur,2020-06,370745
+607,Sur,2020-07,453437
+608,Sur,2020-08,418489
+609,Sur,2020-09,447525
+610,Sur,2020-10,424083
+611,Sur,2020-11,435711
+612,Sur,2020-12,420155
+613,Sur,2021-01,420885
+614,Sur,2021-02,386504
+615,Sur,2021-03,387664
+616,Sur,2021-04,407011
+617,Sur,2021-05,423088
+618,Sur,2021-06,448584
+619,Sur,2021-07,454793
+620,Sur,2021-08,450379
+621,Sur,2021-09,432860
+622,Sur,2021-10,392096
+623,Sur,2021-11,416797
+624,Sur,2021-12,422675
+625,Turistica Residencial,2018-01,104283
+626,Turistica Residencial,2018-02,94376
+627,Turistica Residencial,2018-03,101986
+628,Turistica Residencial,2018-04,96207
+629,Turistica Residencial,2018-05,106937
+630,Turistica Residencial,2018-06,110172
+631,Turistica Residencial,2018-07,102819
+632,Turistica Residencial,2018-08,107716
+633,Turistica Residencial,2018-09,99077
+634,Turistica Residencial,2018-10,81202
+635,Turistica Residencial,2018-11,83909
+636,Turistica Residencial,2018-12,99530
+637,Turistica Residencial,2019-01,92432
+638,Turistica Residencial,2019-02,99875
+639,Turistica Residencial,2019-03,93457
+640,Turistica Residencial,2019-04,106453
+641,Turistica Residencial,2019-05,109208
+642,Turistica Residencial,2019-06,101556
+643,Turistica Residencial,2019-07,106319
+644,Turistica Residencial,2019-08,104845
+645,Turistica Residencial,2019-09,95999
+646,Turistica Residencial,2019-10,92819
+647,Turistica Residencial,2019-11,88831
+648,Turistica Residencial,2019-12,99345
+649,Turistica Residencial,2020-01,91311
+650,Turistica Residencial,2020-02,104903
+651,Turistica Residencial,2020-03,97334
+652,Turistica Residencial,2020-04,102913
+653,Turistica Residencial,2020-05,93571
+654,Turistica Residencial,2020-06,97795
+655,Turistica Residencial,2020-07,99125
+656,Turistica Residencial,2020-08,100189
+657,Turistica Residencial,2020-09,98398
+658,Turistica Residencial,2020-10,94557
+659,Turistica Residencial,2020-11,100491
+660,Turistica Residencial,2020-12,106602
+661,Turistica Residencial,2021-01,104533
+662,Turistica Residencial,2021-02,108614
+663,Turistica Residencial,2021-03,104156
+664,Turistica Residencial,2021-04,111096
+665,Turistica Residencial,2021-05,117493
+666,Turistica Residencial,2021-06,124234
+667,Turistica Residencial,2021-07,131982
+668,Turistica Residencial,2021-08,113181
+669,Turistica Residencial,2021-09,103534
+670,Turistica Residencial,2021-10,91672
+671,Turistica Residencial,2021-11,103995
+672,Turistica Residencial,2021-12,105295
