@@ -79,7 +79,7 @@ Investigar y aplicar los conceptos de prueba de hipótesis e intervalos de confi
 Aplicar e interpretar los conceptos de series de tiempo y sus componentes.
 ### Actividad 2 Opcion 2: Curva de distribución normal en las calificaciones de un grupo de alumnos
 #### Fecha de entrega: 5 de septiembre
-Analizar datos mediante una prueba de hipótesis.
+Analizar los intervalos de calificaciones de dos grupos de estudiantes por medio de una curva de distribución normal..
 ### Evidencia 1: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares. ENDUTIH, 2021. INEGI.
 #### Fecha de entrega: 11 de septiembre
 Analisis de datos de la ENDUTIH sobre horas dedicadas a internet versus otras variables.
