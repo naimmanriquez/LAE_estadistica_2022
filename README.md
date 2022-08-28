@@ -77,7 +77,7 @@ Investigación y aplicación de tipos de variables en un conjunto de datos y tip
 Investigar y aplicar los conceptos de prueba de hipótesis e intervalos de confianza en un contexto práctico.
 ### Ejercicio 5: Fecha de entrega 5 de septiembre
 Aplicar e interpretar los conceptos de series de tiempo y sus componentes.
-### Actividad 2 Opcion 1: Análisis del contenido de nicotina en los cigarrillos
+### Actividad 2 Opcion 2: Curva de distribución normal en las calificaciones de un grupo de alumnos
 #### Fecha de entrega: 5 de septiembre
 Analizar datos mediante una prueba de hipótesis.
 ### Evidencia 1: Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares. ENDUTIH, 2021. INEGI.
