@@ -92,8 +92,8 @@ Analisis de la base de datos respecto a las variables de: edad y tiempo que dedi
 1. Para los datos en general, determina el  promedio de tiempo dedicado a Internet.
 2. Para el total de datos, determina la varianza y la desviación estándar del tiempo que dedican al uso de Internet.
 3. Para los datos por género, determina en promedio quién dedica más tiempo a Internet: hombres o mujeres.
-4. Para los hombres, calcula el coeficiente de correlación lineal entre la edad y el tiempo dedicado al uso de Internet.
-5. Para las mujeres, calcula el coeficiente de correlación lineal entre la edad y el tiempo dedicado al uso de Internet.
+4. Para los hombres, calcula el coeficiente de correlación lineal entre la edad y el tiempo dedicado al uso de Internet. ¿Cómo interpretas esa correlación? ¿fuerte, debil o nula?
+5. Para las mujeres, calcula el coeficiente de correlación lineal entre la edad y el tiempo dedicado al uso de Internet. ¿Cómo interpretas esa correlación? ¿fuerte, debil o nula?
 6. Para los datos por género: determina la mediana de la edad y del tiempo dedicado a Internet.
 
 Prueba de hipótesis
