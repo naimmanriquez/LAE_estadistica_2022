@@ -129,6 +129,9 @@ Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
 #### Fecha de entrega: 10 de octubre
 ### Evidencia 2: 
 #### Fecha de entrega: 17 de octubre
+### Control de lectura 5: Fecha de entrega 20 de octubre
+Lectura a realizar: Capitulo 5 del libro Ciencia de Datos y Políticas Públicas disponible en el siguiente enlace: 
+* [Capitulo 5](https://datosgcba.github.io/ciencia-de-datos-politicas-publicas/docs/modelado-estadistico.html)
 
 ## Módulo 3: Regresión lineal múltiple
 ### Ejercicio 11: Fecha de entrega: 
