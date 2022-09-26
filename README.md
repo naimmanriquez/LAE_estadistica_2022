@@ -130,6 +130,27 @@ Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
 ### Evidencia 2: 
 #### Fecha de entrega: 17 de octubre
 
+## Módulo 3: Regresión lineal múltiple
+### Ejercicio 11: Fecha de entrega: 
+Obtener los intervalos de confianza para los valores predichos en el análisis de regresión.
+### Ejercicio 12: Fecha de entrega: 
+Obtener e interpretar la ecuación de regresión múltiple.
+### Actividad 5 opción 1:
+#### Fecha de entrega: 
+### Ejercicio 13: Fecha de entrega: 
+Realizar pruebas de hipótesis en los coeficientes de regresión.
+### Ejercicio 14: Fecha de entrega: 
+Obtener una ecuación de regresión por medio de la transformación de la variable independiente.
+### Ejercicio 15: Fecha de entrega: 
+Obtener el factor de inflación de varianza cuando las variables independientes están correlacionadas.
+### Actividad 6 opción 1:
+#### Fecha de entrega: 
+Probar e interpretar las pruebas de hipótesis sobre los coeficientes de regresión.
+
+
+
+
+
 ## Liga de asistencia y drive con libros de R
 
 | Asunto | Acceso |
