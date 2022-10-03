@@ -125,7 +125,7 @@ Lectura a realizar: Capitulo 3 del libro Estadística y Machine Learning con R d
 Obtener los estimadores de mínimos cuadrados e interpretar la línea de regresión.
 ### Ejercicio 10: Fecha de entrega: 6 de octubre
 Realizar una prueba de hipótesis sobre la pendiente de la recta de regresión.
-### Actividad 4:
+### Actividad 4: opcion 1
 #### Fecha de entrega: 10 de octubre
 ### Evidencia 2: 
 #### Fecha de entrega: 17 de octubre
