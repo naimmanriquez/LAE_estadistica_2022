@@ -142,6 +142,10 @@ Obtener e interpretar la ecuación de regresión múltiple.
 #### Fecha de entrega: 28 de octubre
 ### Ejercicio 13: Fecha de entrega: 31 de octubre
 Realizar pruebas de hipótesis en los coeficientes de regresión.
+### Control de lectura 6: Fecha de entrega 01 de noviembre
+Lectura a realizar: Capitulo 8 del libro AnalizaR datos politicos disponible en el siguiente enlace: 
+* [Capitulo 8](https://arcruz0.github.io/libroadp/logit.html)
+
 ### Ejercicio 14: Fecha de entrega: 04 de noviembre
 Obtener una ecuación de regresión por medio de la transformación de la variable independiente.
 ### Ejercicio 15: Fecha de entrega: 09 de noviembre
