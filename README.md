@@ -134,23 +134,23 @@ Lectura a realizar: Capitulo 5 del libro Ciencia de Datos y Políticas Públicas
 * [Capitulo 5](https://datosgcba.github.io/ciencia-de-datos-politicas-publicas/docs/modelado-estadistico.html)
 
 ## Módulo 3: Regresión lineal múltiple
-### Ejercicio 11: Fecha de entrega: 
+### Ejercicio 11: Fecha de entrega: 20 de octubre
 Obtener los intervalos de confianza para los valores predichos en el análisis de regresión.
-### Ejercicio 12: Fecha de entrega: 
+### Ejercicio 12: Fecha de entrega: 25 de octubre
 Obtener e interpretar la ecuación de regresión múltiple.
-### Actividad 5 opción 1:
-#### Fecha de entrega: 
-### Ejercicio 13: Fecha de entrega: 
+### Actividad 5 opción 1: 
+#### Fecha de entrega: 28 de octubre
+### Ejercicio 13: Fecha de entrega: 31 de octubre
 Realizar pruebas de hipótesis en los coeficientes de regresión.
-### Ejercicio 14: Fecha de entrega: 
+### Ejercicio 14: Fecha de entrega: 04 de noviembre
 Obtener una ecuación de regresión por medio de la transformación de la variable independiente.
-### Ejercicio 15: Fecha de entrega: 
+### Ejercicio 15: Fecha de entrega: 9 de noviembre
 Obtener el factor de inflación de varianza cuando las variables independientes están correlacionadas.
 ### Actividad 6 opción 1:
-#### Fecha de entrega: 
+#### Fecha de entrega: 9 de noviembre
 Probar e interpretar las pruebas de hipótesis sobre los coeficientes de regresión.
 ### Evidencia 3
-#### Fecha de entrega: 
+#### Fecha de entrega: 15 de noviembre
 Modelos de regresión lineal múltiple: relación entre el precio de vehiculos vs otras variables.
 
 Este ejercicio consiste en realizar un análisis de datos sobre un dataset de 100,000 vehiculos y 9 atributos. El objetivo es conseguir un modelo de regresión lineal con un resultado aceptable. Antes del analisis de regresión se pide:
