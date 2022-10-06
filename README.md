@@ -144,10 +144,10 @@ Obtener e interpretar la ecuación de regresión múltiple.
 Realizar pruebas de hipótesis en los coeficientes de regresión.
 ### Ejercicio 14: Fecha de entrega: 04 de noviembre
 Obtener una ecuación de regresión por medio de la transformación de la variable independiente.
-### Ejercicio 15: Fecha de entrega: 9 de noviembre
+### Ejercicio 15: Fecha de entrega: 09 de noviembre
 Obtener el factor de inflación de varianza cuando las variables independientes están correlacionadas.
 ### Actividad 6 opción 1:
-#### Fecha de entrega: 9 de noviembre
+#### Fecha de entrega: 09 de noviembre
 Probar e interpretar las pruebas de hipótesis sobre los coeficientes de regresión.
 ### Evidencia 3
 #### Fecha de entrega: 15 de noviembre
