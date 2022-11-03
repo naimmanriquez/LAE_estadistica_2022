@@ -154,7 +154,7 @@ Obtener el factor de inflación de varianza cuando las variables independientes 
 #### Fecha de entrega: 09 de noviembre
 Probar e interpretar las pruebas de hipótesis sobre los coeficientes de regresión.
 ### Evidencia 3
-#### Fecha de entrega: 15 de noviembre
+#### Fecha de entrega: 18 de noviembre
 Modelos de regresión lineal múltiple: relación entre el precio de vehiculos vs otras variables.
 
 Este ejercicio consiste en realizar un análisis de datos sobre un dataset de 100,000 vehiculos y 9 atributos. El objetivo es conseguir un modelo de regresión lineal con un resultado aceptable. Antes del analisis de regresión se pide:
