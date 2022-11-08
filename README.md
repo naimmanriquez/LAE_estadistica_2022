@@ -151,7 +151,7 @@ Obtener una ecuación de regresión por medio de la transformación de la variab
 ### Ejercicio 15: Fecha de entrega: 09 de noviembre
 Obtener el factor de inflación de varianza cuando las variables independientes están correlacionadas.
 ### Actividad 6 opción 1:
-#### Fecha de entrega: 09 de noviembre
+#### Fecha de entrega: 11 de noviembre
 Probar e interpretar las pruebas de hipótesis sobre los coeficientes de regresión.
 ### Evidencia 3
 #### Fecha de entrega: 18 de noviembre
